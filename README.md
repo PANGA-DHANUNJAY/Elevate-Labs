@@ -16,9 +16,11 @@ This project is a **responsive landing page** built using **HTML5** and **CSS3**
 
 ## 📁 Project Structure
 
-.
+
 ├── index.html # Main HTML file
+
 ├── style.css # Styling with Flexbox and media queries
+
 └── README.md # Project documentation
 
 
