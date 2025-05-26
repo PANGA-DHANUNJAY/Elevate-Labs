@@ -60,7 +60,7 @@ This layout adapts to various screen sizes including:
 To run this project locally:
 
 1. Clone the repository  
-   `git clone https://github.com/PANGA-DHANUNJAY/Elevate-Labs.git`
+   `git clone https://github.com/PANGA-DHANUNJAY/Elevate-Labs-Task1.git`
 
 2. Open `index.html` in your browser or use Live Server in VS Code.
 
